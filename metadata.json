@@ -1,0 +1,7 @@
+{
+  "name": "AudioInsights AI",
+  "description": "Professional audio transcription and meeting intelligence tool. Transcribes audio, generates executive summaries, extracts action items, and performs sentiment analysis using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
